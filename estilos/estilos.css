@@ -1,0 +1,18 @@
+.nav-bar{
+    background-color: lightslategrey;
+    justify-content: space-between;
+}
+
+h1{
+    color: green;
+}
+.contenedor-footer{
+    display: flex;
+}
+.footer {
+    border-top: 1px solid #d9d9d9;
+    margin-top: 1rem;
+    padding-top: 2rem; }
+    .footer .contenedor-footer {
+      display: flex;
+      flex-direction: column; }
